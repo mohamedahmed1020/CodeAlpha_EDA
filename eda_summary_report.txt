@@ -1,0 +1,7 @@
+EXPLORATORY DATA ANALYSIS (EDA) SUMMARY REPORT
+==================================================
+Total Books Analyzed: 100
+Average Price: £34.56 (Median: £34.78)
+Price Range: £10.16 - £58.11
+Average Rating: 2.93 / 5.0
+Price-Rating Correlation (r): -0.1217 (p-value: 0.2276)
